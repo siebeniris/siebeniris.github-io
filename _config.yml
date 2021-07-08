@@ -1,1 +1,7 @@
 theme: jekyll-theme-cayman
+
+title: Yiyi's Pages
+description: The Knowledge Base of Migration related annotated Tweets.
+url: "https://siebeniris.github.io/TemporalTopics"
+
+permalink: /:category/:title
