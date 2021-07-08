@@ -20,14 +20,14 @@ further analysis. It has shown that **the evolution of migration-related topics 
 * Statistics of Tweets Classified with Model with 5 Topics
 
 
-<img src="images/dist_plots/dist_cossim_5.png" width="300px"/> <img src="images/dist_plots/dist_bef_after_5_log_False.png" width="300px"/> 
+<img src="images/dist_plots/dist_cossim_5.png" width="300px"/> <img src="images/dist_plots/dist_bef_after_5_log_True.png" width="300px"/> 
 
   
 <img src="images/dist_plots/dist_before_filtering_time_5.png" width="300px"/> <img src="images/dist_plots/dist_after_filtering_time_5.png" width="300px"/>
 
 * Statistics of Tweets Classified with Model with 10 Topics
 
-<img src="images/dist_plots/dist_cossim_10.png" width="300px"/><img src="images/dist_plots/dist_bef_after_10_log_False.png" width="300px"/> 
+<img src="images/dist_plots/dist_cossim_10.png" width="300px"/><img src="images/dist_plots/dist_bef_after_10_log_True.png" width="300px"/> 
 
 <img src="images/dist_plots/dist_before_filtering_time_10.png" width="300px"/> <img src="images/dist_plots/dist_after_filtering_time_10.png" width="300px"/>
 
