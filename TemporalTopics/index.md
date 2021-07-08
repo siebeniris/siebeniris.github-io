@@ -21,23 +21,20 @@ further analysis. It has shown that **the evolution of migration-related topics 
 
 * Statistics of Tweets Classified with Model with 5 Topics
 
-<p aligh="center">
 <img src="images/dist_plots/dist_cossim_5.png" width="300px"/> <img src="images/dist_plots/dist_bef_after_5_log_True.png" width="300px"/> 
-</p>
   
-<p aligh="center">
+ 
 <img src="images/dist_plots/dist_before_filtering_time_5.png" width="300px"/> <img src="images/dist_plots/dist_after_filtering_time_5.png" width="300px"/>
-</p>
+
+
 
 * Statistics of Tweets Classified with Model with 10 Topics
   
-<p aligh="center">
 <img src="images/dist_plots/dist_cossim_10.png" width="300px"/><img src="images/dist_plots/dist_bef_after_10_log_True.png" width="300px"/> 
-</p>
 
-<p aligh="center">
+
 <img src="images/dist_plots/dist_before_filtering_time_10.png" width="300px"/> <img src="images/dist_plots/dist_after_filtering_time_10.png" width="300px"/>
-</p>
+
 
 
 More Statistics of Tweets Classified with Models with other numbers of Topics: [stats](stats.md)
@@ -45,6 +42,10 @@ More Statistics of Tweets Classified with Models with other numbers of Topics: [
 
 ## Sparql Queries
 
-```
-SELECT 
+* The following query shows the evolution of topic words of a given topic.
+```sparql
+SELECT ?TopicWords ?year WHERE{
+    ?topic sioc:id "7"; mgkb:topicOccur ?spTopic.
+    ?spTopic dc:date ?year. schema:description ?TopicWords.
+}ORDER BY DESC(?year)
 ```
