@@ -19,6 +19,6 @@ further analysis. It has shown that **the evolution of migration-related topics 
 
 ### Statistics of Tweets Classified with Model with 5 Topics 
 
-![](images/dist_plots/dist_cossim_5.png) ![](images/dist_plots/dist_before_filtering_time_5.png) ![](images/dist_plots/dist_after_filtering_time_5.png)
 
-<img src="images/dist_plots/dist_cossim_5.png" width="100px"/>
+<img src="images/dist_plots/dist_cossim_5.png" width="300px"/> <img src="images/dist_plots/dist_before_filtering_time_5.png" width="300px"/> <img src="images/dist_plots/dist_after_filtering_time_5.png" width="300px"/>
+
