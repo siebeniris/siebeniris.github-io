@@ -76,8 +76,7 @@ EAfDe6H3Dy6Ll456WEJsRZS630MwCAOI20ei5OBpxse5zcBZw8eS4uPpfIuDiCainIg9umBCU0GZzgLZ
         }
 
         section#overview img {
-            max-width: 1200px;
-            max-height:3000px;
+            max-width: 1000px;
         }
 
         h1, h2, h3, h4, h5, h6 {
@@ -193,7 +192,7 @@ EAfDe6H3Dy6Ll456WEJsRZS630MwCAOI20ei5OBpxse5zcBZw8eS4uPpfIuDiCainIg9umBCU0GZzgLZ
     <script type="application/ld+json">
       [
   {
-    "@id": "https://migrationsKB.github.io/MGKB#",
+    "@id": "https://siebeniris.github.io/MGKB#",
     "@type": [
       "https://schema.org/DefinedTermSet"
     ],
@@ -216,7 +215,7 @@ EAfDe6H3Dy6Ll456WEJsRZS630MwCAOI20ei5OBpxse5zcBZw8eS4uPpfIuDiCainIg9umBCU0GZzgLZ
     <h2 style="display:none;">Metadata</h2>
     <dl>
         <dt>URI</dt>
-        <dd><code>https://migrationsKB.github.io/MGKB#</code></dd>
+        <dd><code>https://siebeniris.github.io/MGKB#</code></dd>
         <dt>Ontology RDF</dt>
         <dd><a href="migrationsKB_schema.ttl">RDF (turtle)</a></dd>
     </dl>
@@ -234,12 +233,10 @@ EAfDe6H3Dy6Ll456WEJsRZS630MwCAOI20ei5OBpxse5zcBZw8eS4uPpfIuDiCainIg9umBCU0GZzgLZ
 </section>
 <section id="overview">
     <h2>Overview</h2>
-<!--    <div class="figure">-->
-<!--        <div style="width:500px; height:50px; background-color: lightgrey; border:solid 2px grey; padding:10px;margin-bottom:5px; text-align:center;"> -->
-    <div style="text-align:center; border:solid 2px">
-    <img src="images/migrationKB_schema.png" alt="schema-mgkb"> </div>
+    <div class="figure">
+        <div style="width:500px; height:50px; background-color: lightgrey; border:solid 2px grey; padding:10px;margin-bottom:5px; text-align:center;">Pictures say 1,000 words</div>
         <div class="caption"><strong>Figure 1:</strong> Ontology overview</div>
-<!--    </div>-->
+    </div>
 </section>
   <section id="classes">
     <h2>Classes <span style="float:right; font-size:smaller;"><a href="">&uparrow;</a></span></h2>
@@ -277,13 +274,13 @@ EAfDe6H3Dy6Ll456WEJsRZS630MwCAOI20ei5OBpxse5zcBZw8eS4uPpfIuDiCainIg9umBCU0GZzgLZ
             <tr>
                 <th>In domain of</th>
                 <td>
-                    <a href="http://rdfs.org/sioc/ns#id">sioc:id</a><sup class="sup-dp" title="datatype property">dp</sup><br/>
-                    <a href="http://schema.org/mentions">schema:mentions</a><sup class="sup-op" title="object property">op</sup><br/>
-                    <a href="http://schema.org/location">schema:location</a><sup class="sup-op" title="object property">op</sup><br/>
                     <a href="http://www.gsi.dit.upm.es/ontologies/onyx/ns#hasEmotionSet">onyx:hasEmotionSet</a><sup class="sup-op" title="object property">op</sup><br/>
+                    <a href="http://schema.org/location">schema:location</a><sup class="sup-op" title="object property">op</sup><br/>
+                    <a href="http://schema.org/mentions">schema:mentions</a><sup class="sup-op" title="object property">op</sup><br/>
+                    <a href="http://rdfs.org/sioc/ns#has_creator">sioc:has_creator</a><sup class="sup-op" title="object property">op</sup><br/>
+                    <a href="http://rdfs.org/sioc/ns#id">sioc:id</a><sup class="sup-dp" title="datatype property">dp</sup><br/>
                     <a href="http://purl.org/dc/elements/1.1/created">dc:created</a><sup class="sup-dp" title="datatype property">dp</sup><br/>
                     <a href="http://schema.org/interactionStatistics">schema:interactionStatistics</a><sup class="sup-op" title="object property">op</sup><br/>
-                    <a href="http://rdfs.org/sioc/ns#has_creator">sioc:has_creator</a><sup class="sup-op" title="object property">op</sup><br/>
                 </td>
             </tr>
         </table>
@@ -377,8 +374,8 @@ EAfDe6H3Dy6Ll456WEJsRZS630MwCAOI20ei5OBpxse5zcBZw8eS4uPpfIuDiCainIg9umBCU0GZzgLZ
                 <th>Members</th>
                 <td>
                     <a href="http://schema.org/ReplyAction">schema:ReplyAction</a><br/>
-                    <a href="http://schema.org/ShareAction">schema:ShareAction</a><br/>
                     <a href="http://schema.org/LikeAction">schema:LikeAction</a><br/>
+                    <a href="http://schema.org/ShareAction">schema:ShareAction</a><br/>
                 </td>
             </tr>
         </table>
@@ -403,8 +400,8 @@ EAfDe6H3Dy6Ll456WEJsRZS630MwCAOI20ei5OBpxse5zcBZw8eS4uPpfIuDiCainIg9umBCU0GZzgLZ
             <tr>
                 <th>In domain of</th>
                 <td>
-                    <a href="http://schema.org/interactionType">schema:interactionType</a><sup class="sup-op" title="object property">op</sup><br/>
                     <a href="http://schema.org/userInteractionCount">schema:userInteractionCount</a><sup class="sup-dp" title="datatype property">dp</sup><br/>
+                    <a href="http://schema.org/interactionType">schema:interactionType</a><sup class="sup-op" title="object property">op</sup><br/>
                 </td>
             </tr>
             <tr>
@@ -434,10 +431,10 @@ EAfDe6H3Dy6Ll456WEJsRZS630MwCAOI20ei5OBpxse5zcBZw8eS4uPpfIuDiCainIg9umBCU0GZzgLZ
             <tr>
                 <th>In domain of</th>
                 <td>
-                    <a href="http://schema.org/latitude">schema:latitude</a><sup class="sup-dp" title="datatype property">dp</sup><br/>
-                    <a href="http://schema.org/addressCountry">schema:addressCountry</a><sup class="sup-dp" title="datatype property">dp</sup><br/>
-                    <a href="http://rdfs.org/sioc/ns#name">sioc:name</a><sup class="sup-dp" title="datatype property">dp</sup><br/>
                     <a href="http://schema.org/longitude">schema:longitude</a><sup class="sup-dp" title="datatype property">dp</sup><br/>
+                    <a href="http://schema.org/latitude">schema:latitude</a><sup class="sup-dp" title="datatype property">dp</sup><br/>
+                    <a href="http://rdfs.org/sioc/ns#name">sioc:name</a><sup class="sup-dp" title="datatype property">dp</sup><br/>
+                    <a href="http://schema.org/addressCountry">schema:addressCountry</a><sup class="sup-dp" title="datatype property">dp</sup><br/>
                 </td>
             </tr>
             <tr>
@@ -505,9 +502,9 @@ negative emotion, neutral emotion and positive emotion</p>
             <tr>
                 <th>Members</th>
                 <td>
+                    <a href="http://www.gsi.dit.upm.es/ontologies/wnaffect/ns#negative-emotion">wna:negative-emotion</a><br/>
                     <a href="http://www.gsi.dit.upm.es/ontologies/wnaffect/ns#neutral-emotion">wna:neutral-emotion</a><br/>
                     <a href="http://www.gsi.dit.upm.es/ontologies/wnaffect/ns#positive-emotion">wna:positive-emotion</a><br/>
-                    <a href="http://www.gsi.dit.upm.es/ontologies/wnaffect/ns#negative-emotion">wna:negative-emotion</a><br/>
                 </td>
             </tr>
         </table>
@@ -561,9 +558,9 @@ negative emotion, neutral emotion and positive emotion</p>
             <tr>
                 <th>In domain of</th>
                 <td>
+                    <a href="http://www.ics.forth.gr/isl/oae/core#confidence">nee:confidence</a><sup class="sup-dp" title="datatype property">dp</sup><br/>
                     <a href="http://www.ics.forth.gr/isl/oae/core#detectedAs">nee:detectedAs</a><sup class="sup-dp" title="datatype property">dp</sup><br/>
                     <a href="http://www.ics.forth.gr/isl/oae/core#hasMatchedURI">nee:hasMatchedURI</a><sup class="sup-op" title="object property">op</sup><br/>
-                    <a href="http://www.ics.forth.gr/isl/oae/core#confidence">nee:confidence</a><sup class="sup-dp" title="datatype property">dp</sup><br/>
                 </td>
             </tr>
             <tr>
@@ -613,7 +610,7 @@ negative emotion, neutral emotion and positive emotion</p>
         <table>
             <tr>
                 <th>URI</th>
-                <td><code>https://migrationsKB.github.io/MGKB#TemporalTopic</code></td>
+                <td><code>https://siebeniris.github.io/MGKB#TemporalTopic</code></td>
             </tr>
             <tr>
                 <th>Description</th>
@@ -624,8 +621,8 @@ negative emotion, neutral emotion and positive emotion</p>
             <tr>
                 <th>In domain of</th>
                 <td>
-                    <a href="http://schema.org/description">schema:description</a><sup class="sup-dp" title="datatype property">dp</sup><br/>
                     <a href="http://purl.org/dc/elements/1.1/date">dc:date</a><sup class="sup-dp" title="datatype property">dp</sup><br/>
+                    <a href="http://schema.org/description">schema:description</a><sup class="sup-dp" title="datatype property">dp</sup><br/>
                 </td>
             </tr>
             <tr>
@@ -644,7 +641,7 @@ negative emotion, neutral emotion and positive emotion</p>
         <table>
             <tr>
                 <th>URI</th>
-                <td><code>https://migrationsKB.github.io/MGKB#Topic</code></td>
+                <td><code>https://siebeniris.github.io/MGKB#Topic</code></td>
             </tr>
             <tr>
                 <th>Description</th>
@@ -655,8 +652,8 @@ negative emotion, neutral emotion and positive emotion</p>
             <tr>
                 <th>In domain of</th>
                 <td>
-                    <a href="#topicOccur">topicOccur</a><sup class="sup-op" title="object property">op</sup><br/>
                     <a href="http://rdfs.org/sioc/ns#id">sioc:id</a><sup class="sup-dp" title="datatype property">dp</sup><br/>
+                    <a href="#topicOccur">topicOccur</a><sup class="sup-op" title="object property">op</sup><br/>
                 </td>
             </tr>
         </table>
@@ -819,8 +816,8 @@ negative emotion, neutral emotion and positive emotion</p>
                 <th>Range(s)</th>
                 <td>
                     <a href="http://www.ics.forth.gr/isl/oae/core#Entity">nee:Entity</a><sup class="sup-c" title="class">c</sup>
-                    <a href="http://rdfs.org/sioc/types#Tag">sioc_t:Tag</a><sup class="sup-c" title="class">c</sup>
                     <a href="http://rdfs.org/sioc/ns#UserAccount">sioc:UserAccount</a><sup class="sup-c" title="class">c</sup>
+                    <a href="http://rdfs.org/sioc/types#Tag">sioc_t:Tag</a><sup class="sup-c" title="class">c</sup>
                 </td>
             </tr>
         </table>
@@ -965,7 +962,7 @@ negative emotion, neutral emotion and positive emotion</p>
         <table>
             <tr>
                 <th>URI</th>
-                <td><code>https://migrationsKB.github.io/MGKB#topicOccur</code></td>
+                <td><code>https://siebeniris.github.io/MGKB#topicOccur</code></td>
             </tr>
             <tr>
                 <th>Domain(s)</th>
@@ -976,7 +973,7 @@ negative emotion, neutral emotion and positive emotion</p>
             <tr>
                 <th>Range(s)</th>
                 <td>
-                    <a href="https://migrationsKB.github.io/MGKB#TemporalTopic">mgkb:TemporalTopic</a><sup class="sup-c" title="class">c</sup>
+                    <a href="https://siebeniris.github.io/MGKB#TemporalTopic">mgkb:TemporalTopic</a><sup class="sup-c" title="class">c</sup>
                 </td>
             </tr>
         </table>
@@ -1075,8 +1072,8 @@ negative emotion, neutral emotion and positive emotion</p>
             <tr>
                 <th>Domain(s)</th>
                 <td>
-                    <a href="http://rdfs.org/sioc/ns#UserAccount">sioc:UserAccount</a><sup class="sup-c" title="class">c</sup>
                     <a href="#Topic">Topic</a><sup class="sup-c" title="class">c</sup>
+                    <a href="http://rdfs.org/sioc/ns#UserAccount">sioc:UserAccount</a><sup class="sup-c" title="class">c</sup>
                     <a href="http://rdfs.org/sioc/ns#Post">sioc:Post</a><sup class="sup-c" title="class">c</sup>
                 </td>
             </tr>
@@ -1106,8 +1103,8 @@ negative emotion, neutral emotion and positive emotion</p>
             <tr>
                 <th>Domain(s)</th>
                 <td>
-                    <a href="http://rdfs.org/sioc/ns#UserAccount">sioc:UserAccount</a><sup class="sup-c" title="class">c</sup>
                     <a href="http://schema.org/Place">schema:Place</a><sup class="sup-c" title="class">c</sup>
+                    <a href="http://rdfs.org/sioc/ns#UserAccount">sioc:UserAccount</a><sup class="sup-c" title="class">c</sup>
                 </td>
             </tr>
             <tr>
@@ -1165,8 +1162,8 @@ negative emotion, neutral emotion and positive emotion</p>
             <tr>
                 <th>Domain(s)</th>
                 <td>
-                    <a href="#TemporalTopic">TemporalTopic</a><sup class="sup-c" title="class">c</sup>
                     <a href="http://www.w3.org/2000/01/rdf-schema#Resource">rdfs:Resource</a><sup class="sup-c" title="class">c</sup>
+                    <a href="#TemporalTopic">TemporalTopic</a><sup class="sup-c" title="class">c</sup>
                 </td>
             </tr>
             <tr>
@@ -1340,8 +1337,8 @@ negative emotion, neutral emotion and positive emotion</p>
             <tr>
                 <th>Domain(s)</th>
                 <td>
-                    <a href="http://rdfs.org/sioc/types#Tag">sioc_t:Tag</a><sup class="sup-c" title="class">c</sup>
                     <a href="http://www.w3.org/2000/01/rdf-schema#Resource">rdfs:Resource</a><sup class="sup-c" title="class">c</sup>
+                    <a href="http://rdfs.org/sioc/types#Tag">sioc_t:Tag</a><sup class="sup-c" title="class">c</sup>
                 </td>
             </tr>
             <tr>
@@ -1515,7 +1512,7 @@ negative emotion, neutral emotion and positive emotion</p>
     <h2>Namespaces <span style="float:right; font-size:smaller;"><a href="">&uparrow;</a></span></h2>
     <dl>
         <dt>default (:)</dt>
-        <dd><code>https://migrationsKB.github.io/MGKB#</code></dd>
+        <dd><code>https://siebeniris.github.io/MGKB#</code></dd>
         <dt>dc</dt>
         <dd><code>http://purl.org/dc/elements/1.1/</code></dd>
         <dt>dct</dt>
