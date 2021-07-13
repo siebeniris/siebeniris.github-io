@@ -17,6 +17,11 @@ further analysis. It has shown that **the evolution of migration-related topics 
 ![](images/migrationKB_schema.png)
 
 
+[Documentation of RDF Model](migrationsKB_schema.html)
+
+[Codes](https://github.com/siebeniris/detm_tweets/tree/master)
+
+
 ## Statistics of Tweets Classified with Topics
 
 * Statistics of Tweets Classified with Model with 5 Topics
