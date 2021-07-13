@@ -21,6 +21,7 @@ further analysis. It has shown that **the evolution of migration-related topics 
 
 [Codes](https://github.com/siebeniris/detm_tweets/tree/master)
 
+[MigrationsKB](https://github.com/siebeniris/detm_tweets/blob/master/migrationsKB_temporal_07132021_132954.tar.xz)
 
 ## Statistics of Tweets Classified with Topics
 

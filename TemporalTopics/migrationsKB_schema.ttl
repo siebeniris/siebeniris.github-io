@@ -1,0 +1,323 @@
+@prefix : <https://siebeniris.github.io/MGKB#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix nee: <http://www.ics.forth.gr/isl/oae/core#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix wna: <http://www.gsi.dit.upm.es/ontologies/wnaffect/ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix mgkb: <https://siebeniris.github.io/MGKB#> .
+@prefix onyx: <http://www.gsi.dit.upm.es/ontologies/onyx/ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sioc: <http://rdfs.org/sioc/ns#> .
+@prefix schema: <http://schema.org/> .
+@prefix sioc_t: <http://rdfs.org/sioc/types#> .
+@base <https://siebeniris.github.io/MGKB#> .
+
+<https://siebeniris.github.io/MGKB#> rdf:type owl:Ontology .
+
+#################################################################
+#    Datatypes
+#################################################################
+
+###  http://www.w3.org/2000/01/rdf-schema#Resource
+rdfs:Resource rdf:type rdfs:Datatype .
+
+
+#################################################################
+#    Object Properties
+#################################################################
+
+###  http://rdfs.org/sioc/ns#has_creator
+sioc:has_creator rdf:type owl:ObjectProperty ;
+                 rdfs:domain sioc:Post ;
+                 rdfs:range sioc:UserAccount ;
+                 rdfs:comment "Defines the creator of the Tweet." .
+
+
+###  http://schema.org/interactionStatistics
+schema:interactionStatistics rdf:type owl:ObjectProperty ;
+                             rdfs:domain sioc:Post ;
+                             rdfs:range schema:InteractionCounter ;
+                             rdfs:comment """[The number of interactions for the CreativeWork using the WebSite or SoftwareApplication. The most specific child type of InteractionCounter should be used.]
+
+A tweet has interactionStatistics InteractionCounter.""" .
+
+
+###  http://schema.org/interactionType
+schema:interactionType rdf:type owl:ObjectProperty ;
+                       rdfs:domain schema:InteractionCounter ;
+                       rdfs:range schema:Action ;
+                       rdfs:comment "Defines the type of an interaction counter of a Tweet." .
+
+
+###  http://schema.org/location
+schema:location rdf:type owl:ObjectProperty ;
+                rdfs:domain sioc:Post ;
+                rdfs:range schema:Place ;
+                rdfs:comment "Defines the geo information of a Tweet." .
+
+
+###  http://schema.org/mentions
+schema:mentions rdf:type owl:ObjectProperty ;
+                rdfs:domain sioc:Post ;
+                rdfs:range sioc:UserAccount ,
+                           sioc_t:Tag ,
+                           nee:Entity ;
+                rdfs:comment "Defines the entity mentions, user mentions, and hashtags." .
+
+
+###  http://www.gsi.dit.upm.es/ontologies/onyx/ns#hasEmotion
+onyx:hasEmotion rdf:type owl:ObjectProperty ;
+                rdfs:domain onyx:EmotionSet ;
+                rdfs:range onyx:Emotion ;
+                rdfs:comment "Used to express the individual emotions within an EmotionSet." .
+
+
+###  http://www.gsi.dit.upm.es/ontologies/onyx/ns#hasEmotionCategory
+onyx:hasEmotionCategory rdf:type owl:ObjectProperty ;
+                        rdfs:domain onyx:Emotion ;
+                        rdfs:range onyx:EmotionCategory ;
+                        rdfs:comment "Value that represents the type of emotion" .
+
+
+###  http://www.gsi.dit.upm.es/ontologies/onyx/ns#hasEmotionSet
+onyx:hasEmotionSet rdf:type owl:ObjectProperty ;
+                   rdfs:domain sioc:Post ;
+                   rdfs:range onyx:EmotionSet ;
+                   rdfs:comment "Indicates that a certain text has a subjective set of emotions expressed in it." .
+
+
+###  http://www.ics.forth.gr/isl/oae/core#hasMatchedURI
+nee:hasMatchedURI rdf:type owl:ObjectProperty ;
+                  rdfs:domain nee:Entity ;
+                  rdfs:range rdfs:Resource ;
+                  rdfs:comment "The URI of a detected Entity in a Tweet." .
+
+
+###  http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+rdf:type rdf:type owl:ObjectProperty ;
+         rdfs:comment "Defines the type of economic indicators." .
+
+
+###  https://siebeniris.github.io/MGKB#topicOccur
+mgkb:topicOccur rdf:type owl:ObjectProperty ;
+                rdfs:domain mgkb:Topic ;
+                rdfs:range mgkb:TemporalTopic .
+
+
+#################################################################
+#    Data properties
+#################################################################
+
+###  http://purl.org/dc/elements/1.1/created
+dc:created rdf:type owl:DatatypeProperty ;
+           rdfs:domain sioc:Post ;
+           rdfs:range rdfs:Literal ;
+           rdfs:comment "the date when the data is created" .
+
+
+###  http://purl.org/dc/elements/1.1/date
+dc:date rdf:type owl:DatatypeProperty ;
+        rdfs:domain mgkb:TemporalTopic ;
+        rdfs:range rdfs:Literal ;
+        rdfs:comment "date" .
+
+
+###  http://rdfs.org/sioc/ns#id
+sioc:id rdf:type owl:DatatypeProperty ;
+        rdfs:domain sioc:Post ,
+                    sioc:UserAccount ,
+                    mgkb:Topic ;
+        rdfs:range rdfs:Literal ;
+        rdfs:comment "The id of a Tweet or the encrypted id of a user account." .
+
+
+###  http://rdfs.org/sioc/ns#name
+sioc:name rdf:type owl:DatatypeProperty ;
+          rdfs:domain sioc:UserAccount ,
+                      schema:Place ;
+          rdfs:range rdfs:Literal ;
+          rdfs:comment "The name of a place or a user mention." .
+
+
+###  http://schema.org/addressCountry
+schema:addressCountry rdf:type owl:DatatypeProperty ;
+                      rdfs:domain schema:Place ;
+                      rdfs:range rdfs:Literal ;
+                      rdfs:comment "The country. For example, USA. You can also provide the two-letter ISO 3166-1 alpha-2 country code." .
+
+
+###  http://schema.org/description
+schema:description rdf:type owl:DatatypeProperty ;
+                   rdfs:domain rdfs:Resource ,
+                               mgkb:TemporalTopic ;
+                   rdfs:range rdfs:Literal ;
+                   rdfs:comment "The description of an entity in wikipedia." .
+
+
+###  http://schema.org/latitude
+schema:latitude rdf:type owl:DatatypeProperty ;
+                rdfs:domain schema:Place ;
+                rdfs:range rdfs:Literal ;
+                rdfs:comment "The latitude of coordinates of a Tweet." .
+
+
+###  http://schema.org/longitude
+schema:longitude rdf:type owl:DatatypeProperty ;
+                 rdfs:domain schema:Place ;
+                 rdfs:range rdfs:Literal ;
+                 rdfs:comment "The longitude of the coordinate of a Tweet." .
+
+
+###  http://schema.org/userInteractionCount
+schema:userInteractionCount rdf:type owl:DatatypeProperty ;
+                            rdfs:domain schema:InteractionCounter ;
+                            rdfs:range rdfs:Literal ;
+                            rdfs:comment "The user interaction count of an interaction action such as Like, Reply and Share." .
+
+
+###  http://www.ics.forth.gr/isl/oae/core#confidence
+nee:confidence rdf:type owl:DatatypeProperty ;
+               rdfs:domain nee:Entity ;
+               rdfs:range rdfs:Literal ;
+               rdfs:comment "Relates an entity to a literal representing the confidence of an ambiguous entity." .
+
+
+###  http://www.ics.forth.gr/isl/oae/core#detectedAs
+nee:detectedAs rdf:type owl:DatatypeProperty ;
+               rdfs:domain nee:Entity ;
+               rdfs:range rdfs:Literal ;
+               rdfs:comment "The detected entity mention using entity linking." .
+
+
+###  http://www.w3.org/2000/01/rdf-schema#label
+rdfs:label rdf:type owl:DatatypeProperty ;
+           rdfs:domain sioc_t:Tag ,
+                       rdfs:Resource ;
+           rdfs:range rdfs:Literal ;
+           rdfs:comment "represents a label of either Resource or a hashtag." .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://rdfs.org/sioc/ns#Post
+sioc:Post rdf:type owl:Class ;
+          rdfs:comment "A post represents a Tweet." .
+
+
+###  http://rdfs.org/sioc/ns#UserAccount
+sioc:UserAccount rdf:type owl:Class ;
+                 rdfs:comment "A user account contains an encrypted id." .
+
+
+###  http://rdfs.org/sioc/types#Tag
+sioc_t:Tag rdf:type owl:Class ;
+           rdfs:comment "A tag represents a hashtag." .
+
+
+###  http://schema.org/Action
+schema:Action rdf:type owl:Class ;
+              rdfs:comment """[An action performed by a direct agent and indirect participants upon a direct object. Optionally happens at a location with the help of an inanimate instrument. The execution of the action may produce a result. Specific action sub-type documentation specifies the exact expectation of each argument/role.]
+
+Action that includes LikeAction, ShareAction and ReplyAction.""" .
+
+
+###  http://schema.org/InteractionCounter
+schema:InteractionCounter rdf:type owl:Class ;
+                          rdfs:comment """[A summary of how users have interacted with this CreativeWork. In most cases, authors will use a subtype to specify the specific type of interaction.]
+
+A class that represents the public metrics of a tweet, includes LikeAction (like_count), ShareAction (retweet_count), ReplyAction (reply_count).""" .
+
+
+###  http://schema.org/Place
+schema:Place rdf:type owl:Class ;
+             rdfs:comment "Place represents the geo information of a Tweet, which contains a country code, a place name, the latitude and the longitude." .
+
+
+###  http://www.gsi.dit.upm.es/ontologies/onyx/ns#Emotion
+onyx:Emotion rdf:type owl:Class ;
+             rdfs:comment "Class that represents emotions in a generic way" .
+
+
+###  http://www.gsi.dit.upm.es/ontologies/onyx/ns#EmotionCategory
+onyx:EmotionCategory rdf:type owl:Class ;
+                     rdfs:comment """Value that represents the type of emotion. 
+It has three individuals:
+negative emotion, neutral emotion and positive emotion""" .
+
+
+###  http://www.gsi.dit.upm.es/ontologies/onyx/ns#EmotionSet
+onyx:EmotionSet rdf:type owl:Class ;
+                rdfs:comment "Describes the concept of emotion expressed in a certain text" .
+
+
+###  http://www.ics.forth.gr/isl/oae/core#Entity
+nee:Entity rdf:type owl:Class ;
+           rdfs:comment "Represents an identified entity from wikipedia." .
+
+
+###  http://www.w3.org/2000/01/rdf-schema#Resource
+rdfs:Resource rdf:type owl:Class .
+
+
+###  https://siebeniris.github.io/MGKB#TemporalTopic
+mgkb:TemporalTopic rdf:type owl:Class ;
+                   rdfs:comment "Topic of a tweet in a specific year." .
+
+
+###  https://siebeniris.github.io/MGKB#Topic
+mgkb:Topic rdf:type owl:Class ;
+           rdfs:comment "Topic represents the topics resulted from Dynamic Embedded Topic Model (DETM)." .
+
+
+#################################################################
+#    Individuals
+#################################################################
+
+###  http://schema.org/LikeAction
+schema:LikeAction rdf:type owl:NamedIndividual ,
+                           schema:Action ;
+                  rdfs:comment "Like action of tweets" .
+
+
+###  http://schema.org/ReplyAction
+schema:ReplyAction rdf:type owl:NamedIndividual ,
+                            schema:Action ;
+                   rdfs:comment "Reply action of tweets" .
+
+
+###  http://schema.org/ShareAction
+schema:ShareAction rdf:type owl:NamedIndividual ,
+                            schema:Action ;
+                   rdfs:comment "Share action of tweets" .
+
+
+###  http://www.gsi.dit.upm.es/ontologies/wnaffect/ns#negative-emotion
+wna:negative-emotion rdf:type owl:NamedIndividual ,
+                              onyx:EmotionCategory ;
+                     rdfs:comment "negative-emotion represents negative sentiment" .
+
+
+###  http://www.gsi.dit.upm.es/ontologies/wnaffect/ns#neutral-emotion
+wna:neutral-emotion rdf:type owl:NamedIndividual ,
+                             onyx:EmotionCategory ;
+                    rdfs:comment "neutral-emotion represents neutral sentiment" .
+
+
+###  http://www.gsi.dit.upm.es/ontologies/wnaffect/ns#positive-emotion
+wna:positive-emotion rdf:type owl:NamedIndividual ,
+                              onyx:EmotionCategory ;
+                     rdfs:comment "positive sentiment resulted from sentiment analysis" .
+
+
+#################################################################
+#    Annotations
+#################################################################
+
+rdfs:Resource rdfs:comment "Identify the resource of an entity, which is a URI of wikipedia." .
+
+
+###  Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi
