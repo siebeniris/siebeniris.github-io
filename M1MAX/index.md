@@ -1,6 +1,6 @@
 # Set up M1 Max for Deep Learning
 
-## install xcode and Command Line Tools Package
+## Install xcode and Command Line Tools Package
 
 `xcode-select --install`
 
