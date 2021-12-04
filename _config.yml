@@ -5,3 +5,6 @@ description: Karlsruhe, Germany, PhD Student at KIT, FIZ Karlsruhe. Interests an
 url: "https://siebeniris.github.io"
 
 permalink: /:category/:title
+
+plugins:
+    - jemoji
