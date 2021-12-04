@@ -7,8 +7,10 @@
 * Tensorflow for MacOS
 * Pytorch
 * Transformers
+* asitop
 * Benchmarking
-[More](https://siebeniris.github.io/M1MAX)
+
+[More](https://siebeniris.github.io/M1MAX/)
 
 
 
