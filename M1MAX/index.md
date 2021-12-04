@@ -23,7 +23,7 @@
 
 * Reference: [Use IOS GPU in Pytorch](https://pytorch.org/tutorials/prototype/ios_gpu_workflow.html#metal-compatible-model)
 
-* Install a pytorch nightly that includes the `Meta` backend
+* Install a pytorch nightly that includes the `Metal` backend
 
 	`pip3 install --pre torch -f https://download.pytorch.org/whl/nightly/cpu/torch_nightly.html`
 
