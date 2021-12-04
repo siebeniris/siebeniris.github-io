@@ -2,7 +2,7 @@
 
 ## install xcode and Command Line Tools Package
 
-`xcode-select --isntall`
+`xcode-select --install`
 
 ## Install Miniforge
 
@@ -77,6 +77,15 @@ optimized_model._save_for_lite_interpreter('./mobilenetv2_metal.pt')
 	`pip install git+https://github.com/huggingface/transformers`
 
 
+## Asitop
+
+Kudos :heart: to [Timothy Liu](https://github.com/tlkh), [asitop](https://github.com/tlkh/asitop) is very nice and easy to use- `Performance monitoring CLI tool for Apple Silicon`.
+
+* `pip install asitop`
+
+* `sudo asitop`
+
+
 ## Benchmarking
 
 * Reference: [Apple-M1-BERT Inference](https://github.com/octoml/Apple-M1-BERT)
@@ -103,27 +112,35 @@ gpus = tf.config.experimental.list_physical_devices('GPU')
 	* CPU benchmark from `python run_keras.py --device cpu`, output: 
 
 	```
-	[Keras] Mean Inference time (std dev) on PhysicalDevice(name='/physical_device:CPU:0', device_type='CPU'): 51.705708503723145 ms (8.090285680405165 ms)
+	[Keras] Mean Inference time (std dev) on 
+	PhysicalDevice(name='/physical_device:CPU:0', device_type='CPU'): 
+	51.705708503723145 ms (8.090285680405165 ms)
 	```
     
 
     * GPU benchmark from `python run_keras.py --device gpu`, output: 
 
 	```
-	[Keras] Mean Inference time (std dev) on PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU'): 51.065993309020996 ms (7.654708410313706 ms)
+	[Keras] Mean Inference time (std dev) on 
+	PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU'): 
+	51.065993309020996 ms (7.654708410313706 ms)
 	```
 
 	* CPU benchmark from `python run_graphdef.py --device cpu --graph-path ./models/bert-base-uncased.pb`
 
 	```
-	[Graphdef] Mean Inference time (std dev) on PhysicalDevice(name='/physical_device:CPU:0', device_type='CPU'): 18.558645248413086 ms (2.615691413527943 ms)
+	[Graphdef] Mean Inference time (std dev) on 
+	PhysicalDevice(name='/physical_device:CPU:0', device_type='CPU'): 
+	18.558645248413086 ms (2.615691413527943 ms)
 	```
 
 
 	* GPU benchmark from `python run_graphdef.py --device gpu --graph-path ./models/bert-base-uncased.pb.`
 
 	```
-	[Graphdef] Mean Inference time (std dev) on PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU'): 18.612136840820312 ms (1.4835947730761807 ms)
+	[Graphdef] Mean Inference time (std dev) on 
+	PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU'):
+	18.612136840820312 ms (1.4835947730761807 ms)
 	```
 
 The performance is much improved compared to the M1 (2020), see the reference.
