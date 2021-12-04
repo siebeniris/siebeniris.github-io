@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 
 title: Yiyi's Pages
-description: Time Series Analysis, Machine Learning & Deep Learning, Natural Language Processing
-url: "https://siebeniris.github.io/TemporalTopics"
+description: @Karlsruhe, Germany, PhD Student at KIT, FIZ Karlsruhe. Interests and Research fileds - Time Series Analysis, Machine Learning & Deep Learning, Natural Language Processing
+url: "https://siebeniris.github.io"
 
 permalink: /:category/:title
