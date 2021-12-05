@@ -10,4 +10,3 @@ permalink: /:category/:title
 plugins:
     - jekyll-gist
     - jemoji
-    - jekyll-twitter-plugin
