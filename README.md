@@ -1,4 +1,8 @@
 
+{% twitter https://twitter.com/YiyiChen maxwidth=500 limit=2 %}
+
+
+
 # Notes 
 
 ## Set up M1 Max for Deep Learning
@@ -10,7 +14,7 @@
 * asitop
 * Benchmarking
 
-[More](https://siebeniris.github.io/M1MAX/)
+* [Detail](https://siebeniris.github.io/M1MAX/)
 
 
 

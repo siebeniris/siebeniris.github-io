@@ -95,15 +95,16 @@ Kudos :heart: to [Timothy Liu](https://github.com/tlkh), [asitop](https://github
 
 ```
 gpus = tf.config.experimental.list_physical_devices('GPU')
-    if len(gpus) > 0 : print('Available GPUs: {}'.format(gpus))
-    else             : print('!!! No GPUs found !!!')
-    if device =="gpu":
+if len(gpus) > 0 : print('Available GPUs: {}'.format(gpus))
+else             : print('!!! No GPUs found !!!')
 
-        device = gpus[0]
-    elif device=="cpu":
-        device= tf.config.experimental.list_physical_devices('CPU')[0]
-    print('device:' , device)
+if device =="gpu":
 
+    device = gpus[0]
+elif device=="cpu":
+    device= tf.config.experimental.list_physical_devices('CPU')[0]
+
+print('device:' , device)
 ```
 
 * Following the instruction for benchmarking [https://github.com/octoml/Apple-M1-BERT#benchmark-apple-tensorflow-with-mlcompute](https://github.com/octoml/Apple-M1-BERT#benchmark-apple-tensorflow-with-mlcompute)

@@ -1,0 +1,10 @@
+# Belongs at: /_data/navigation.yml
+
+- title: Yiyi's Page
+  url: /
+
+- title: Notes
+  url: /notes/
+
+- title: Projects
+  url: /projects/
