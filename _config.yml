@@ -8,5 +8,6 @@ email: yiyi.chen@partner.kit.edu
 permalink: /:category/:title
 
 plugins:
+    - jekyll-gist
     - jemoji
     - jekyll-twitter-plugin
