@@ -1,6 +1,9 @@
 
-{% twitter https://twitter.com/YiyiChen maxwidth=500 limit=2 %}
+## Tweets by @YiyiChen
 
+<div class='jekyll-twitter-plugin' align="center">
+{% twitter https://twitter.com/YiyiChen maxwidth=500 limit=2 %}
+</div>
 
 
 # Notes 
