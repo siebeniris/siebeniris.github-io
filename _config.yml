@@ -4,6 +4,11 @@ title: Yiyi's Pages
 description: Karlsruhe, Germany, PhD Student at KIT, FIZ Karlsruhe. Interests and Research fileds - Time Series Analysis, Machine Learning, Deep Learning, Natural Language Processing
 url: "https://siebeniris.github.io"
 email: yiyi.chen@partner.kit.edu
+twitter_username: YiyiChen
+
+
+# build settings
+markdown: kramdown
 
 permalink: /:category/:title
 
