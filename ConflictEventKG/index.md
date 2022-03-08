@@ -4,8 +4,21 @@
 ### Overall Schema
 
 ![](images/ConflictEventKG.jpg)
-[codes](https://github.com/siebeniris/ConflictEventKG)
 
+[Codes](https://github.com/siebeniris/ConflictEventKG)
+
+[Data](https://shrtm.nu/6ybL)
+
+[Documentation](images/documentation.html)
+## Analysis
+
+* Correlation Analysis of the number of detected entities and the number of detected events
+
+  * No linear correlation.
+  
+![](images/results_regression.png)
+
+![](images/plot_regression.png)
 
 ## Sparql Queries
 
