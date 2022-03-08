@@ -20,6 +20,10 @@
 
 ![](images/plot_regression.png)
 
+* Distribution of the event detection confidence score
+![](images/distplot.png)
+
+
 ## Sparql Queries
 
 * The following query shows the events with the highest popularity and with role and actors of the events.
