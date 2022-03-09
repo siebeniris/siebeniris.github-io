@@ -7,19 +7,14 @@ More Details: [https://siebeniris.github.io/ConflictEventKG/](https://siebeniris
  
 More Details: [https://siebeniris.github.io/TemporalTopics/](https://siebeniris.github.io/TemporalTopics/)
 
+## MigrationsKB- The Knowledge Base of Migraiton related annotated Tweets
 
+More Details: [https://migrationskb.github.io/MGKB/](https://migrationskb.github.io/MGKB/)
 
 
 # Notes 
 
 ## Set up M1 Max for Deep Learning
 
-* Miniforge
-* Tensorflow for MacOS
-* Pytorch
-* Transformers
-* asitop
-* Benchmarking
-
-* [Detail](https://siebeniris.github.io/M1MAX/)
+More Detaill: [https://siebeniris.github.io/M1MAX/](https://siebeniris.github.io/M1MAX/)
 
