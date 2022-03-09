@@ -1,6 +1,6 @@
 # Projects 
 
-## Conflict Event Knowledge Graph
+## Conflict Event Knowledge Graph based on the ongoing Ukraine-Russia Conflict
 More Details: [https://siebeniris.github.io/ConflictEventKG/](https://siebeniris.github.io/ConflictEventKG/)
 
 ## Temporal Evolution of the Migration-related Topics on Social Media

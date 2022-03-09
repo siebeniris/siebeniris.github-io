@@ -1,4 +1,4 @@
-# Conflict Event Knowledge Graph 
+# Conflict Event Knowledge Graph based on the ongoing Ukraine-Russia Conflict
 
 ## RDF/S Model
 ### Overall Schema
