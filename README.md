@@ -1,5 +1,3 @@
-# Yiyi's Page
-
 
 
 ## Projects
