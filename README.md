@@ -3,15 +3,14 @@
 
 
 ## Projects
-### Multilingual MigrationsKB
-GitHub: [https://github.com/migrationsKB/MRL](https://github.com/migrationsKB/MRL) 
 
 ### MigrationsKB- The Knowledge Base of Migraiton related annotated Tweets
 
 More Details: [https://migrationskb.github.io/MGKB/](https://migrationskb.github.io/MGKB/)
 
-### Conflict Event Knowledge Graph based on the ongoing Ukraine-Russia Conflict
-More Details: [https://siebeniris.github.io/ConflictEventKG/](https://siebeniris.github.io/ConflictEventKG/)
+### Multilingual MigrationsKB
+GitHub: [https://github.com/migrationsKB/MRL](https://github.com/migrationsKB/MRL) 
+
 
 ### Temporal Evolution of the Migration-related Topics on Social Media
  
