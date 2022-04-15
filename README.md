@@ -1,3 +1,4 @@
+My Résumé: <a href="CV.pdf"> CV </a>
 
 
 ## Projects
