@@ -21,8 +21,8 @@
 
 ### Professional Academic Service
 
-* 2022, Programme Committee Member, PoliticalNLP 2022, Co-located with 13th Edition of Language Resources and Evaluation Conference (LREC), https://sites.google.com/view/politicalnlp2022/home 
-
+* 2022, Programme Committee Member, [PoliticalNLP 2022](https://sites.google.com/view/politicalnlp2022/home
+  ), Co-located with 13th Edition of Language Resources and Evaluation Conference (LREC)
 
 ## Teaching Experience
 
@@ -62,8 +62,18 @@
 
 ## Projects
 
-### ITFLOWS
-ITFlows H2020, European Project, Web: https://www.itflows.eu/, Description: The purpose of ITFlows is to provide accurate predictions and adequate management solutions of migration flow in the European Union during the phases of reception, relocation, settlement, and integration of migrants. These insights will be provided with the help of EUMigraTool and precise models. Start Date: September 2020.
+<img src="itflows.png" width="100" style="align-content: center"/>
+
+__ITFLOWS H2020, European Project__
+
+* [https://www.itflows.eu/](https://www.itflows.eu/)
+* __Description__: The purpose of ITFlows is to provide accurate predictions and adequate management solutions of migration flow in the European Union during the phases of reception, relocation, settlement, and integration of migrants. These insights will be provided with the help of EUMigraTool and precise models. Start Date: September 2020.
+
+### Deliverables
+
+* Mehwish Alam & __Yiyi Chen__ , Haithem Afli, February/2022, [Manual for Software Prototype of Social Media Analysis Tool to Monitor Public Attitudes Towards Migration](https://www.itflows.eu/wp-content/uploads/2022/06/27.-D5.3-ITFLOWS.pdf)
+* Mehwish Alam & __Yiyi Chen__, Tobias Heidland & Finja Krueger, February/2022, [Analysis of the role of contextual factors and dynamics of attitudes on social media, especially hate speech](https://www.itflows.eu/wp-content/uploads/2022/06/28.-D5.4-ITFLOWS.pdf)
+
 
 ## Repositories
 
