@@ -10,14 +10,14 @@
 
 ## Background
 
-* 11.2020 until now, Junior Researcher, FIZ Karlsruhe, Karlsruhe Institute of Technology, Karlsruhe, Germany
-* 2018-2020, Master in  Computational Linguistics and Computer Science (1.67), Ludwig-Maximiliam-Universität München, Munich, Germany
-* 2015-2018, Bachelor in Computer Science and Computational Linguistics (1.58), Ludwig-Maximiliam-Universität München, Munich, Germany
-* 2008-2013, Bachelor in Comparative Philosophy, Wuhan University, Wuhan, China
+* 11.2020 until now, [Junior Researcher, FIZ Karlsruhe, Karlsruhe Institute of Technology](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-und-publikationen-yiyi-chen), Karlsruhe, Germany
+* 2018-2020, [Master in  Computational Linguistics and Computer Science](https://www.cis.uni-muenchen.de/ueber_uns/index.html) (1.67), Ludwig-Maximiliam-Universität München, Munich, Germany
+* 2015-2018, [Bachelor in Computer Science and Computational Linguistics](https://www.ifi.lmu.de/front-page-en) (1.58), Ludwig-Maximiliam-Universität München, Munich, Germany
+* 2008-2013, [Bachelor in Comparative Philosophy](http://philo.whu.edu.cn/), Wuhan University, Wuhan, China
 
 ### Industrial Work Experience
 
-* 2018-2020, Working Student, NLP Engineer, TrustYou GmbH, Munich, Germany
+* 2018-2020, Working Student, NLP Engineer, [TrustYou GmbH](https://www.trustyou.com/), Munich, Germany
 
 ### Professional Academic Service
 
@@ -47,17 +47,17 @@
 ## Publications
 ### 2022
 
-* __Y. Chen__, H. Sack, M. Alam, Analyzing Social Media for Measuring Public Attitudes towards Controversies and their Driving Factors - A Case Study of Migration, Social Network Analysis, and Mining Journal (Accepted), 2022.
-* R. Biswas, __Y. Chen__, H. Paulheim, H. Sack, M. Alam: It’s all in the Name: Entity Typing using Multilingual Language Models, In: Proceedings of the ESWC 2022 Posters and Demos Track (accepted).
+* __Y. Chen__, H. Sack, M. Alam, Analyzing Social Media for Measuring Public Attitudes towards Controversies and their Driving Factors - A Case Study of Migration, Social Network Analysis, and Mining Journal (Accepted), 2022, [Copy](https://www.fiz-karlsruhe.de/sites/default/files/FIZ/Dokumente/Forschung/ISE/Publications/Journals/SNAM-journal-preprint.pdf).
+* R. Biswas, __Y. Chen__, H. Paulheim, H. Sack, M. Alam: [It’s all in the Name: Entity Typing using Multilingual Language Models](https://2022.eswc-conferences.org/wp-content/uploads/2022/05/pd_Biswas_et_al_paper_233.pdf), In: Proceedings of the ESWC 2022 Posters and Demos Track.
 
 ### 2021
 
-* __Y. Chen__, G. A. Gesese, H.Sack, M. Alam: Temporal Evolution of the Migration-related Topics on Social Media, In: Proceedings of the ISWC 2021 Posters and Demos Track, co-located with the 20th International Semantic Web Conference (ISWC 2021), CEUR Workshop Proceedings, vol. 2980, CEUR-WS.org.
-* M.Alam, R. Biswas, __Y. Chen__, D. Dessi, G. A. Gesese, F. Hoppe, H. Sack: HierClasSArt: Knowledge Aware Hierarchical Classification of Scholarly Articles. In Proc. Of 1st International Workshop on Scientific Knowledge: Representation, Discovery, and Assessment (Sci-K 2021), co-located with The Web Conf 2021, Companion Proceedings of the Web Conference 2021 (pp. 436-440).
+* __Y. Chen__, G. A. Gesese, H.Sack, M. Alam: [Temporal Evolution of the Migration-related Topics on Social Media](http://ceur-ws.org/Vol-2980/paper375.pdf), In: Proceedings of the ISWC 2021 Posters and Demos Track, co-located with the 20th International Semantic Web Conference (ISWC 2021), CEUR Workshop Proceedings, vol. 2980, CEUR-WS.org.
+* M.Alam, R. Biswas, __Y. Chen__, D. Dessi, G. A. Gesese, F. Hoppe, H. Sack: [HierClasSArt: Knowledge Aware Hierarchical Classification of Scholarly Articles](https://dl.acm.org/doi/10.1145/3442442.3451365). In Proc. Of 1st International Workshop on Scientific Knowledge: Representation, Discovery, and Assessment (Sci-K 2021), co-located with The Web Conf 2021, Companion Proceedings of the Web Conference 2021 (pp. 436-440).
 
 ### 2019
 
-* M. Fromm, M. Berrendorf, E. Faerman, __Y. Chen__, B. Schüss, M. Schubert: XD-STOD: Cross-Domain Superresolution for Tiny Object Detection, International Conference on Data Mining Workshops (ICDMW), 2019, 142-148, DOI: 10.1109/ICDMW.2019.00031.
+* M. Fromm, M. Berrendorf, E. Faerman, __Y. Chen__, B. Schüss, M. Schubert: XD-STOD: Cross-Domain Superresolution for Tiny Object Detection, International Conference on Data Mining Workshops (ICDMW), 2019, 142-148, DOI: [10.1109/ICDMW.2019.00031](https://ieeexplore.ieee.org/document/8955582).
 
 
 
