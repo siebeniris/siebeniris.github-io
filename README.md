@@ -10,39 +10,39 @@
 
 ## Background
 
-* 11.2020 until now | Junior Researcher, FIZ Karlsruhe, Karlsruhe Institute of Technology, Karlsruhe, Germany
-* 2018-2020 | Master in  Computational Linguistics and Computer Science (1.67), Ludwig-Maximiliam-Universität München, Munich, Germany
-* 2015-2018 | Bachelor in Computer Science and Computational Linguistics (1.58), Ludwig-Maximiliam-Universität München, Munich, Germany
-* 2008-2013 | Bachelor in Comparative Philosophy, Wuhan University, Wuhan, China
+* 11.2020 until now, Junior Researcher, FIZ Karlsruhe, Karlsruhe Institute of Technology, Karlsruhe, Germany
+* 2018-2020, Master in  Computational Linguistics and Computer Science (1.67), Ludwig-Maximiliam-Universität München, Munich, Germany
+* 2015-2018, Bachelor in Computer Science and Computational Linguistics (1.58), Ludwig-Maximiliam-Universität München, Munich, Germany
+* 2008-2013, Bachelor in Comparative Philosophy, Wuhan University, Wuhan, China
 
 ### Industrial Work Experience
 
-* 2018-2020 | Working Student, NLP Engineer, TrustYou GmbH, Munich, Germany
+* 2018-2020, Working Student, NLP Engineer, TrustYou GmbH, Munich, Germany
 
 ### Professional Academic Service
 
-* 2022 | Programme Committee Member, PoliticalNLP 2022, Co-located with 13th Edition of Language Resources and Evaluation Conference (LREC), https://sites.google.com/view/politicalnlp2022/home 
+* 2022, Programme Committee Member, PoliticalNLP 2022, Co-located with 13th Edition of Language Resources and Evaluation Conference (LREC), https://sites.google.com/view/politicalnlp2022/home 
 
 
 ## Teaching Experience
 
-* WS 2021-2022 | Teaching assistant, Praktikum Information Service Engineering (Master), AIFB, Karlsruhe Institute of Technology, Germany
-* WS 2021-2022 | Teaching assistant, Seminar Representation Learning on Knowledge Graphs (Master) AIFB, Karlsruhe Institute of Technology, Germany
-* SS 2021 | Teaching assistant, Information Service Engineering, AIFB, Karlsruhe Institute of Technology, Germany
-* SS 2021 | Teaching assistant, Advanced Methods in Natural Language Processing: Metaphors (Master), AIFB, Karlsruhe Institute of Technology, Germany
+* WS 2021-2022, Teaching assistant, Praktikum Information Service Engineering (Master), AIFB, Karlsruhe Institute of Technology, Germany
+* WS 2021-2022, Teaching assistant, Seminar Representation Learning on Knowledge Graphs (Master) AIFB, Karlsruhe Institute of Technology, Germany
+* SS 2021, Teaching assistant, Information Service Engineering, AIFB, Karlsruhe Institute of Technology, Germany
+* SS 2021, Teaching assistant, Advanced Methods in Natural Language Processing: Metaphors (Master), AIFB, Karlsruhe Institute of Technology, Germany
 
 ## Supervision Experience
 
 ### Seminar Course
 
-* 2022 | Yi Xu, Representation Learning on Knowledge Graphs (Master), Paper Title: “ReInceptionE: Relation-Aware Inception Network with Joint Local-Global Structural Information for Knowledge Graph Embedding”
-* 2022 | Florian Krüger, (co-supervisor with Dr. Mehwish Alam), Representation Learning on Knowledge Graphs (Master), Paper Title: “K-Adapter: Infusing Knowledge into Pre-Trained Models with Adapters”
-* 2021 | Fabio Ritzi, Advanced Methods in Natural Language Processing: Metaphors (Master),  Paper Title: “How to Avoid Sentences Spelling Boring? Towards a Neural Network Approach to Unsupervised Metapher Generation (Yu and Wan, 2019)”
+* 2022, Yi Xu, Representation Learning on Knowledge Graphs (Master), Paper Title: “ReInceptionE: Relation-Aware Inception Network with Joint Local-Global Structural Information for Knowledge Graph Embedding”
+* 2022, Florian Krüger, (co-supervisor with Dr. Mehwish Alam), Representation Learning on Knowledge Graphs (Master), Paper Title: “K-Adapter: Infusing Knowledge into Pre-Trained Models with Adapters”
+* 2021, Fabio Ritzi, Advanced Methods in Natural Language Processing: Metaphors (Master),  Paper Title: “How to Avoid Sentences Spelling Boring? Towards a Neural Network Approach to Unsupervised Metapher Generation (Yu and Wan, 2019)”
 
 ### Project Courses
 
-* 2022 | Vjola Cili, Mona Stebner, Philipp Kiesling, Praktikum Information Service Engineering (Master)- Make more out of less in low-resource languages, Paper Title: “A Quantitive Study on the Influence of Language Similarity in Cross-Lingual Transfer Learning”
-* 2022 | Caroline Berg, Nabil Aït Saïd, Nico Aßfalg, (co-supervisor with Russa Biswas), Praktikum Information Service Engineering (Master)- Multilingual Entity Type Prediction, Paper Title: “Multilingual Entity Type Prediction in DBpedia via Text Analysis”
+* 2022, Vjola Cili, Mona Stebner, Philipp Kiesling, Praktikum Information Service Engineering (Master)- Make more out of less in low-resource languages, Paper Title: “A Quantitive Study on the Influence of Language Similarity in Cross-Lingual Transfer Learning”
+* 2022, Caroline Berg, Nabil Aït Saïd, Nico Aßfalg, (co-supervisor with Russa Biswas), Praktikum Information Service Engineering (Master)- Multilingual Entity Type Prediction, Paper Title: “Multilingual Entity Type Prediction in DBpedia via Text Analysis”
 
 ## Publications
 ### 2022
