@@ -1,6 +1,3 @@
-
-# [Yiyi Chen](https://yiyichen.netlify.app/) 
-
 <img src="personal/images/IMG_7721.jpg" width="150" style="align-content: center"/>
 
 [![GitHub](https://img.shields.io/github/followers/siebeniris?style=social)](https://github.com/siebeniris)
