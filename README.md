@@ -59,8 +59,6 @@
 
 * M. Fromm, M. Berrendorf, E. Faerman, __Y. Chen__, B. Schüss, M. Schubert: XD-STOD: Cross-Domain Superresolution for Tiny Object Detection, International Conference on Data Mining Workshops (ICDMW), 2019, 142-148, DOI: [10.1109/ICDMW.2019.00031](https://ieeexplore.ieee.org/document/8955582).
 
-## Theses
-
 
 ## Projects
 
