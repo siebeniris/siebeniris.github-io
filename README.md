@@ -2,6 +2,7 @@
 
 [![GitHub](https://img.shields.io/github/followers/siebeniris?style=social)](https://github.com/siebeniris)
 [![Twitter Follow](https://img.shields.io/twitter/follow/YiyiChen?style=social)](https://twitter.com/YiyiChen)
+[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC)](mailto:chen.yiyi@pm.me)
 
 <a href="https://dblp.org/pid/71/1-2.html"><img src="personal/images/icons/DBLP_Logo_320x120.png" WIDTH="80"/></a>
 <a href="https://scholar.google.com/citations?user=nCLP2jcAAAAJ"><img src="personal/images/icons/google_scholar.png" WIDTH="80"/></a>
