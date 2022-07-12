@@ -149,9 +149,13 @@ Adress the following questions:
 
 [![codes](https://img.shields.io/github/languages/code-size/siebeniris/DeepLearningforExtractionOfOpinionEntities)](https://github.com/siebeniris/DeepLearningforExtractionOfOpinionEntities)
 
-## Notes 
+[//]: # ()
+[//]: # (## Notes )
 
-### Set up M1 Max for Deep Learning
+[//]: # ()
+[//]: # (### Set up M1 Max for Deep Learning)
 
-More Detaill: [https://siebeniris.github.io/M1MAX/](https://siebeniris.github.io/M1MAX/)
+[//]: # ()
+[//]: # (More Detaill: [https://siebeniris.github.io/M1MAX/]&#40;https://siebeniris.github.io/M1MAX/&#41;)
 
+[//]: # ()
