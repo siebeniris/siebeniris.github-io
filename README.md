@@ -135,6 +135,7 @@ __Tiny Object Detection__ in Deep Learning.
 [![codes](https://img.shields.io/github/languages/code-size/siebeniris/superresolution)](https://github.com/siebeniris/superresolution)
 
 
+
 ### Combined Distributional and Formal Semantics
 
 Seminar For Semantik II, Vecchi, CIS, LMU 2019
@@ -152,10 +153,10 @@ Adress the following questions:
 [![codes](https://img.shields.io/github/languages/code-size/siebeniris/Argument_in_Dialogues)](https://github.com/siebeniris/Argument_in_Dialogues)
 
 ### Deep Learning for Extraction of Opinion Entities
-
-
+Sequence Labeling, BiLSTM(+CRF), CNN(+CRF)
 
 [![codes](https://img.shields.io/github/languages/code-size/siebeniris/DeepLearningforExtractionOfOpinionEntities)](https://github.com/siebeniris/DeepLearningforExtractionOfOpinionEntities)
+[![disputation](https://img.shields.io/badge/Presentation-BachelorThesis-orange)](https://github.com/siebeniris/DeepLearningforExtractionOfOpinionEntities/blob/master/Disputation.pdf)
 
 [//]: # ()
 [//]: # (## Notes )
