@@ -8,9 +8,8 @@
 
 [//]: # (My Résumé: <a href="CV.pdf"> CV </a>)
 
-## Background
-
-* 11.2020 until now, [Junior Researcher, FIZ Karlsruhe, Karlsruhe Institute of Technology](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-und-publikationen-yiyi-chen), Karlsruhe, Germany
+## Academic Background
+* 11.2020-10.2022, [Junior Researcher, FIZ Karlsruhe, Karlsruhe Institute of Technology](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-und-publikationen-yiyi-chen), Karlsruhe, Germany
 * 2018-2020, [Master in  Computational Linguistics and Computer Science](https://www.cis.uni-muenchen.de/ueber_uns/index.html) (1.67), Ludwig-Maximiliam-Universität München, Munich, Germany
 * 2015-2018, [Bachelor in Computer Science and Computational Linguistics](https://www.ifi.lmu.de/front-page-en) (1.58), Ludwig-Maximiliam-Universität München, Munich, Germany
 * 2008-2013, [Bachelor in Comparative Philosophy](http://philo.whu.edu.cn/), Wuhan University, Wuhan, China
