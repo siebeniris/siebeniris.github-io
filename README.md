@@ -9,6 +9,7 @@
 [//]: # (My Résumé: <a href="CV.pdf"> CV </a>)
 
 ## Academic Background
+* I will join the [TypNLP](https://twitter.com/TypNLP) lab at Computer Science Department at University of Aalborg in Copenhagen, Denmark, in November.
 * 11.2020-10.2022, [Junior Researcher, FIZ Karlsruhe, Karlsruhe Institute of Technology](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-und-publikationen-yiyi-chen), Karlsruhe, Germany
 * 2018-2020, [Master in  Computational Linguistics and Computer Science](https://www.cis.uni-muenchen.de/ueber_uns/index.html) (1.67), Ludwig-Maximiliam-Universität München, Munich, Germany
 * 2015-2018, [Bachelor in Computer Science and Computational Linguistics](https://www.ifi.lmu.de/front-page-en) (1.58), Ludwig-Maximiliam-Universität München, Munich, Germany
@@ -45,8 +46,7 @@
 
 ## Publications
 ### 2022
-
-* __Y. Chen__, H. Sack, M. Alam, Analyzing Social Media for Measuring Public Attitudes towards Controversies and their Driving Factors - A Case Study of Migration, Social Network Analysis, and Mining Journal (Accepted), 2022, [Copy](https://www.fiz-karlsruhe.de/sites/default/files/FIZ/Dokumente/Forschung/ISE/Publications/Journals/SNAM-journal-preprint.pdf).
+* __Chen, Y.__, Sack, H. & Alam, M. Analyzing social media for measuring public attitudes toward controversies and their driving factors: a case study of migration. Soc. Netw. Anal. Min. 12, 135 (2022). https://doi.org/10.1007/s13278-022-00915-7
 * R. Biswas, __Y. Chen__, H. Paulheim, H. Sack, M. Alam: [It’s all in the Name: Entity Typing using Multilingual Language Models](https://2022.eswc-conferences.org/wp-content/uploads/2022/05/pd_Biswas_et_al_paper_233.pdf), In: Proceedings of the ESWC 2022 Posters and Demos Track.
 
 ### 2021
