@@ -1,6 +1,6 @@
-# Temporal Evolution of the Migration-related Topics on Social Media
+## Temporal Evolution of the Migration-related Topics on Social Media
 
-## Introduction
+### Introduction
 
 This poster focuses on capturing **the temporal evolution of migration-related topics on relevant tweets**. 
 It uses **Dynamic Embedded Topic Model (DETM)** [1] as a learning algorithm to perform a quantitative
@@ -11,8 +11,8 @@ further analysis. It has shown that **the evolution of migration-related topics 
 
 [1] Adji B. Dieng, Francisco J. R. Ruiz, David M. Blei, _The Dynamic Embedded Topic Model_, 2019, [https://arxiv.org/abs/1907.05545](https://arxiv.org/abs/1907.05545)
 
-## RDF/S Model
-### Overall Schema
+### RDF/S Model
+#### Overall Schema
 
 ![](images/migrationKB_schema.png)
 
@@ -23,7 +23,7 @@ further analysis. It has shown that **the evolution of migration-related topics 
 
 [MigrationsKB](https://github.com/siebeniris/detm_tweets/blob/master/migrationsKB_temporal_07132021_132954.tar.xz)
 
-## Statistics of Tweets Classified with Topics
+### Statistics of Tweets Classified with Topics
 
 * Statistics of Tweets Classified with Model with 5 Topics
 
@@ -46,7 +46,7 @@ further analysis. It has shown that **the evolution of migration-related topics 
 More Statistics of Tweets Classified with Models with other numbers of Topics: [stats](stats.md)
 
 
-## Sparql Queries
+### Sparql Queries
 
 * The following query shows the evolution of topic words of a given topic.
 ```sparql
