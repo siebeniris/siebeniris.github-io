@@ -40,7 +40,7 @@ with the extracted Twitter dataset along with the results of DETM which
 considers temporality. These results are then further analyzed and visualized. It reveals that the trajectories of the migration-related topics are in
 agreement with historical events.
 
-[![Webpage](https://img.shields.io/website?url=https%3A%2F%2Fsiebeniris.github.io%2FRepositories%2FTemporalTopics%2F)](https://siebeniris.github.io/Repositories/TemporalTopics/)
+[![Webpage](https://img.shields.io/website?url=https%3A%2F%2Fsiebeniris.github.io%2FRepositories%2FTemporalTopics%2F)](https://siebeniris.github.io/Repositories/temporal)
 [![Code](https://img.shields.io/github/repo-size/siebeniris/detm_tweets)](https://github.com/siebeniris/detm_tweets/tree/master)
 
 
