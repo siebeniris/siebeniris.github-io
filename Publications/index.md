@@ -1,3 +1,4 @@
+# Publications 
 
 ## 2022
 * __Chen, Y.__, Sack, H. & Alam, M. _Analyzing social media for measuring public attitudes toward controversies and their driving factors: a case study of migration_. Soc. Netw. Anal. Min. 12, 135 (2022). [https://doi.org/10.1007/s13278-022-00915-7](https://doi.org/10.1007/s13278-022-00915-7)

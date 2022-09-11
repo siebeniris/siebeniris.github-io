@@ -1,17 +1,18 @@
-theme: minima
 
 title: Yiyi's Pages
 description: Natural Language Processing, Machine Learning, Deep Learning, Time Series Analysis
 url: "https://siebeniris.github.io"
 email: chen.yiyi@pm.me
 twitter_username: YiyiChen
+theme: minima
 
 
 # build settings
 markdown: kramdown
 
-permalink: /:category
+#permalink: /:category/:title
 
 plugins:
     - jekyll-gist
     - jemoji
+    - jekyll-feed
