@@ -10,7 +10,7 @@ twitter_username: YiyiChen
 # build settings
 markdown: kramdown
 
-permalink: /:category/:title
+permalink: /:category
 
 plugins:
     - jekyll-gist
