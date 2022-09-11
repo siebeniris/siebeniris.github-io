@@ -44,20 +44,6 @@
 * 2022, Vjola Cili, Mona Stebner, Philipp Kiesling, Praktikum Information Service Engineering (Master)- Make more out of less in low-resource languages, Paper Title: “A Quantitive Study on the Influence of Language Similarity in Cross-Lingual Transfer Learning”
 * 2022, Caroline Berg, Nabil Aït Saïd, Nico Aßfalg, (co-supervisor with Russa Biswas), Praktikum Information Service Engineering (Master)- Multilingual Entity Type Prediction, Paper Title: “Multilingual Entity Type Prediction in DBpedia via Text Analysis”
 
-## Publications
-### 2022
-* __Chen, Y.__, Sack, H. & Alam, M. Analyzing social media for measuring public attitudes toward controversies and their driving factors: a case study of migration. Soc. Netw. Anal. Min. 12, 135 (2022). https://doi.org/10.1007/s13278-022-00915-7
-* R. Biswas, __Y. Chen__, H. Paulheim, H. Sack, M. Alam: [It’s all in the Name: Entity Typing using Multilingual Language Models](https://2022.eswc-conferences.org/wp-content/uploads/2022/05/pd_Biswas_et_al_paper_233.pdf), In: Proceedings of the ESWC 2022 Posters and Demos Track.
-
-### 2021
-
-* __Y. Chen__, G. A. Gesese, H.Sack, M. Alam: [Temporal Evolution of the Migration-related Topics on Social Media](http://ceur-ws.org/Vol-2980/paper375.pdf), In: Proceedings of the ISWC 2021 Posters and Demos Track, co-located with the 20th International Semantic Web Conference (ISWC 2021), CEUR Workshop Proceedings, vol. 2980, CEUR-WS.org.
-* M.Alam, R. Biswas, __Y. Chen__, D. Dessi, G. A. Gesese, F. Hoppe, H. Sack: [HierClasSArt: Knowledge Aware Hierarchical Classification of Scholarly Articles](https://dl.acm.org/doi/10.1145/3442442.3451365). In Proc. Of 1st International Workshop on Scientific Knowledge: Representation, Discovery, and Assessment (Sci-K 2021), co-located with The Web Conf 2021, Companion Proceedings of the Web Conference 2021 (pp. 436-440).
-
-### 2019
-
-* M. Fromm, M. Berrendorf, E. Faerman, __Y. Chen__, B. Schüss, M. Schubert: XD-STOD: Cross-Domain Superresolution for Tiny Object Detection, International Conference on Data Mining Workshops (ICDMW), 2019, 142-148, DOI: [10.1109/ICDMW.2019.00031](https://ieeexplore.ieee.org/document/8955582).
-
 
 ## Projects
 
