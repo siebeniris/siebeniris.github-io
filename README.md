@@ -9,7 +9,7 @@
 [//]: # (My Résumé: <a href="CV.pdf"> CV </a>)
 
 ## Academic Background
-* I will join the [TypNLP](https://twitter.com/TypNLP) lab at Computer Science Department at University of Aalborg in Copenhagen, Denmark, in November.
+* I will join [TypNLP](https://twitter.com/TypNLP) lab at Computer Science Department at University of Aalborg in Copenhagen, Denmark, in November.
 * 11.2020-10.2022, [Junior Researcher, FIZ Karlsruhe, Karlsruhe Institute of Technology](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-und-publikationen-yiyi-chen), Karlsruhe, Germany
 * 2018-2020, [Master in  Computational Linguistics and Computer Science](https://www.cis.uni-muenchen.de/ueber_uns/index.html) (1.67), Ludwig-Maximiliam-Universität München, Munich, Germany
 * 2015-2018, [Bachelor in Computer Science and Computational Linguistics](https://www.ifi.lmu.de/front-page-en) (1.58), Ludwig-Maximiliam-Universität München, Munich, Germany
@@ -20,8 +20,8 @@
 * 2018-2020, Working Student, NLP Engineer, [TrustYou GmbH](https://www.trustyou.com/), Munich, Germany
 
 ### Professional Academic Service
-
-* 2022, Programme Committee Member, [PoliticalNLP 2022](https://sites.google.com/view/politicalnlp2022/home
+* 2022, Program Committee Member, [DL4KG 2022](https://alammehwish.github.io/dl4kg2022/), Workshop at **ISWC 2022**.
+* 2022, Program Committee Member, [PoliticalNLP 2022](https://sites.google.com/view/politicalnlp2022/home
   ), Co-located with 13th Edition of Language Resources and Evaluation Conference (LREC)
 
 ## Teaching Experience
