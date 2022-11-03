@@ -5,11 +5,12 @@
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC)](mailto:chen.yiyi@pm.me)
 [![dblp](https://a11ybadges.com/badge?logo=dblp)](https://dblp.org/pid/71/1-2.html)
 [![Google Scholar](https://a11ybadges.com/badge?logo=googlescholar)](https://scholar.google.com/citations?user=nCLP2jcAAAAJ)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yiyi-chen-1005571b4)
 
 [//]: # (My Résumé: <a href="CV.pdf"> CV </a>)
 
 ## Academic Background
-* I will join [TypNLP](https://twitter.com/TypNLP) lab at Computer Science Department at University of Aalborg in Copenhagen, Denmark, in November.
+* Ab 11.2022, PhD Candidate, [TypNLP](https://twitter.com/TypNLP), [Computer Science Department](https://www.cs.aau.dk/), University of Aalborg, Copenhagen, Denmark.
 * 11.2020-10.2022, [Junior Researcher, FIZ Karlsruhe, Karlsruhe Institute of Technology](https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-und-publikationen-yiyi-chen), Karlsruhe, Germany
 * 2018-2020, [Master in  Computational Linguistics and Computer Science](https://www.cis.uni-muenchen.de/ueber_uns/index.html) (1.67), Ludwig-Maximiliam-Universität München, Munich, Germany
 * 2015-2018, [Bachelor in Computer Science and Computational Linguistics](https://www.ifi.lmu.de/front-page-en) (1.58), Ludwig-Maximiliam-Universität München, Munich, Germany
