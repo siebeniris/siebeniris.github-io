@@ -1,7 +1,7 @@
 # Publications 
 
 ## 2022
-* Fouad Shammary, __Yiyi Chen__, Zsolt T Kardkovacs, Mehwish Alam, and Haithem Afli. 2022. TF-IDF or Transformers for Arabic Dialect Identification? ITFLOWS participation in the NADI 2022 Shared Task. [https://aclanthology.org/2022.wanlp-1.42](https://aclanthology.org/2022.wanlp-1.42) In Proceedings of the The Seventh Arabic Natural Language Processing Workshop (WANLP), pages 420–424, Abu Dhabi, United Arab Emirates (Hybrid). Association for Computational Linguistics.
+* Fouad Shammary, __Yiyi Chen__, Zsolt T Kardkovacs, Mehwish Alam, and Haithem Afli. 2022. _TF-IDF or Transformers for Arabic Dialect Identification? ITFLOWS participation in the NADI 2022 Shared Task._ [https://aclanthology.org/2022.wanlp-1.42](https://aclanthology.org/2022.wanlp-1.42) In Proceedings of the The Seventh Arabic Natural Language Processing Workshop (WANLP), pages 420–424, Abu Dhabi, United Arab Emirates (Hybrid). Association for Computational Linguistics.
 * __Chen, Y.__, Sack, H. & Alam, M. _Analyzing social media for measuring public attitudes toward controversies and their driving factors: a case study of migration_. Soc. Netw. Anal. Min. 12, 135 (2022). [https://doi.org/10.1007/s13278-022-00915-7](https://doi.org/10.1007/s13278-022-00915-7)
 * R. Biswas, __Y. Chen__, H. Paulheim, H. Sack, M. Alam: [It’s all in the Name: Entity Typing using Multilingual Language Models](https://2022.eswc-conferences.org/wp-content/uploads/2022/05/pd_Biswas_et_al_paper_233.pdf), In: Proceedings of the ESWC 2022 Posters and Demos Track.
 
