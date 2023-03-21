@@ -1,7 +1,7 @@
 # Publications 
 
 ## 2023
-* __Yiyi Chen__, Russa Biswas, Johannes Bjerva. 2023. Proceedings of the 24th Nordic Conference on Computational Linguistics (NoDaLiDa). (Accepted)
+* __Yiyi Chen__, Russa Biswas, Johannes Bjerva. 2023. Colex2Lang: Language Embeddings from Semantic Typology. Proceedings of the 24th Nordic Conference on Computational Linguistics (NoDaLiDa). (Accepted)
 
 ## 2022
 * Fouad Shammary, __Yiyi Chen__, Zsolt T Kardkovacs, Mehwish Alam, and Haithem Afli. 2022. _TF-IDF or Transformers for Arabic Dialect Identification? ITFLOWS participation in the NADI 2022 Shared Task._ [https://aclanthology.org/2022.wanlp-1.42](https://aclanthology.org/2022.wanlp-1.42) In Proceedings of the The Seventh Arabic Natural Language Processing Workshop (WANLP), pages 420–424, Abu Dhabi, United Arab Emirates (Hybrid). Association for Computational Linguistics.
