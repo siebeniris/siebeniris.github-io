@@ -10,10 +10,9 @@
 [//]: # (My Résumé: <a href="CV.pdf"> CV </a>)
 
 ## Activities, Workshops, Conferences
-* 22-25 May 2023, [The 24th Nordic Conference on Computational Linguistics, Tórshavn, Faroe Islands](https://www.nodalida2023.fo/)
-* 25-28 April 2023, [Joint Sessions of Workshops, Science Po Toulouse and Online](https://ecpr.eu/JointSessions)
-* Ab 01.2023, Board Member of [PhD Network of Aalborg University (PAU)](https://www.facebook.com/groups/PAUNetwork) on the Copenhagen Campus.
-11
+* 22-25 May 2023, [The 24th Nordic Conference on Computational Linguistics, Tórshavn, Faroe Islands](https://www.nodalida2023.fo/), Kingdom of Denmark
+* 25-28 April 2023, [Joint Sessions of Workshops, Science Po Toulouse and Online](https://ecpr.eu/JointSessions), Toulouse, France
+* Ab 01.2023, Board Member of [PhD Network of Aalborg University (PAU)](https://www.facebook.com/groups/PAUNetwork) on the Copenhagen Campus
 
 
 ## Academic Background
