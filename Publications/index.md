@@ -1,4 +1,4 @@
-# Publications 
+[//]: # (# Publications )
 
 ## 2023
 * __Yiyi Chen__, Russa Biswas, Johannes Bjerva. 2023. Colex2Lang: Language Embeddings from Semantic Typology. Proceedings of the 24th Nordic Conference on Computational Linguistics (NoDaLiDa). (Accepted)

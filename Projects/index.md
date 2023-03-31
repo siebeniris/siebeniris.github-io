@@ -1,9 +1,9 @@
-# Project
+[//]: # (# Project)
 
 
 <img src="itflows.png" width="100" style="align-content: center"/>
 
-## __ITFLOWS H2020, European Project__
+## ITFLOWS H2020, European Project
 
 * [https://www.itflows.eu/](https://www.itflows.eu/)
 * __Description__: The purpose of ITFlows is to provide accurate predictions and adequate management solutions of migration flow in the European Union during the phases of reception, relocation, settlement, and integration of migrants. These insights will be provided with the help of EUMigraTool and precise models. Start Date: September 2020.
