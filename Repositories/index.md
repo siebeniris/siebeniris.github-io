@@ -40,8 +40,9 @@ with the extracted Twitter dataset along with the results of DETM which
 considers temporality. These results are then further analyzed and visualized. It reveals that the trajectories of the migration-related topics are in
 agreement with historical events.
 
-[![Webpage](https://img.shields.io/website?url=https%3A%2F%2Fsiebeniris.github.io%2FRepositories%2Ftemporal)](https://siebeniris.github.io/Repositories/temporal)
+[//]: # ([![Webpage]&#40;https://img.shields.io/website?url=https%3A%2F%2Fsiebeniris.github.io%2FRepositories%2Ftemporal&#41;]&#40;https://siebeniris.github.io/Repositories/temporal&#41;)
 [![Code](https://img.shields.io/github/repo-size/siebeniris/detm_tweets)](https://github.com/siebeniris/detm_tweets/tree/master)
+
 
 
 ### Interpretable Change Point Detection in Review Streams 
@@ -56,7 +57,6 @@ __Tiny Object Detection__ in Deep Learning.
 
 [![poster](https://img.shields.io/badge/Demo-Poster-green)](https://github.com/siebeniris/superresolution/blob/master/Team4.pdf)
 [![codes](https://img.shields.io/github/languages/code-size/siebeniris/superresolution)](https://github.com/siebeniris/superresolution)
-
 
 
 ### Combined Distributional and Formal Semantics
@@ -80,3 +80,5 @@ Sequence Labeling, BiLSTM(+CRF), CNN(+CRF)
 
 [![codes](https://img.shields.io/github/languages/code-size/siebeniris/DeepLearningforExtractionOfOpinionEntities)](https://github.com/siebeniris/DeepLearningforExtractionOfOpinionEntities)
 [![disputation](https://img.shields.io/badge/Presentation-BachelorThesis-orange)](https://github.com/siebeniris/DeepLearningforExtractionOfOpinionEntities/blob/master/Disputation.pdf)
+
+
