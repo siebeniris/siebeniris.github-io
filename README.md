@@ -13,6 +13,7 @@
 * 22-25 May 2023, [The 24th Nordic Conference on Computational Linguistics, Tórshavn, Faroe Islands](https://www.nodalida2023.fo/), Kingdom of Denmark
 * 25-28 April 2023, [Joint Sessions of Workshops, Science Po Toulouse and Online](https://ecpr.eu/JointSessions), Toulouse, France
 * 29-30 March 2023, Poster session of [HumanCLAIM Workshop](https://clap-lab.github.io/workshop), Amsterdam, Netherlands
+  * <a href="Colex2lang_poster.pdf" class="image fit">Poster</a>
 * Ab 01.2023, Board Member of [PhD Network of Aalborg University (PAU)](https://www.facebook.com/groups/PAUNetwork) on the Copenhagen Campus
 
 
