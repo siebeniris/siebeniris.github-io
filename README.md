@@ -10,6 +10,7 @@
 [//]: # (My Résumé: <a href="CV.pdf"> CV </a>)
 
 ## News
+* 10-14 July 2023, Present my papers in [AmericasNLP 2023](https://turing.iimas.unam.mx/americasnlp/2023_workshop.html) and [SIGMORPHON 2023](https://sigmorphon.github.io/workshops/2023/), co-located with [ACL 2023](https://2023.aclweb.org/), Toronto Canada
 * 22-25 May 2023, [The 24th Nordic Conference on Computational Linguistics, Tórshavn, Faroe Islands](https://www.nodalida2023.fo/), Kingdom of Denmark
 * 25-28 April 2023, [Joint Sessions of Workshops, Science Po Toulouse and Online](https://ecpr.eu/JointSessions), Toulouse, France
 * 29-30 March 2023, Poster session of [HumanCLAIM Workshop](https://clap-lab.github.io/workshop), Amsterdam, Netherlands
@@ -40,18 +41,26 @@
 * SS 2021, Teaching assistant, Information Service Engineering, AIFB, Karlsruhe Institute of Technology, Germany
 * SS 2021, Teaching assistant, Advanced Methods in Natural Language Processing: Metaphors (Master), AIFB, Karlsruhe Institute of Technology, Germany
 
-## Supervision Experience
+[//]: # ()
+[//]: # (## Supervision Experience)
 
-### Seminar Course
+[//]: # ()
+[//]: # (### Seminar Course)
 
-* 2022, Yi Xu, Representation Learning on Knowledge Graphs (Master), Paper Title: “ReInceptionE: Relation-Aware Inception Network with Joint Local-Global Structural Information for Knowledge Graph Embedding”
-* 2022, Florian Krüger, (co-supervisor with Dr. Mehwish Alam), Representation Learning on Knowledge Graphs (Master), Paper Title: “K-Adapter: Infusing Knowledge into Pre-Trained Models with Adapters”
-* 2021, Fabio Ritzi, Advanced Methods in Natural Language Processing: Metaphors (Master),  Paper Title: “How to Avoid Sentences Spelling Boring? Towards a Neural Network Approach to Unsupervised Metapher Generation (Yu and Wan, 2019)”
+[//]: # ()
+[//]: # (* 2022, Yi Xu, Representation Learning on Knowledge Graphs &#40;Master&#41;, Paper Title: “ReInceptionE: Relation-Aware Inception Network with Joint Local-Global Structural Information for Knowledge Graph Embedding”)
 
-### Project Courses
+[//]: # (* 2022, Florian Krüger, &#40;co-supervisor with Dr. Mehwish Alam&#41;, Representation Learning on Knowledge Graphs &#40;Master&#41;, Paper Title: “K-Adapter: Infusing Knowledge into Pre-Trained Models with Adapters”)
 
-* 2022, Vjola Cili, Mona Stebner, Philipp Kiesling, Praktikum Information Service Engineering (Master)- Make more out of less in low-resource languages, Paper Title: “A Quantitive Study on the Influence of Language Similarity in Cross-Lingual Transfer Learning”
-* 2022, Caroline Berg, Nabil Aït Saïd, Nico Aßfalg, (co-supervisor with Russa Biswas), Praktikum Information Service Engineering (Master)- Multilingual Entity Type Prediction, Paper Title: “Multilingual Entity Type Prediction in DBpedia via Text Analysis”
+[//]: # (* 2021, Fabio Ritzi, Advanced Methods in Natural Language Processing: Metaphors &#40;Master&#41;,  Paper Title: “How to Avoid Sentences Spelling Boring? Towards a Neural Network Approach to Unsupervised Metapher Generation &#40;Yu and Wan, 2019&#41;”)
+
+[//]: # ()
+[//]: # (### Project Courses)
+
+[//]: # ()
+[//]: # (* 2022, Vjola Cili, Mona Stebner, Philipp Kiesling, Praktikum Information Service Engineering &#40;Master&#41;- Make more out of less in low-resource languages, Paper Title: “A Quantitive Study on the Influence of Language Similarity in Cross-Lingual Transfer Learning”)
+
+[//]: # (* 2022, Caroline Berg, Nabil Aït Saïd, Nico Aßfalg, &#40;co-supervisor with Russa Biswas&#41;, Praktikum Information Service Engineering &#40;Master&#41;- Multilingual Entity Type Prediction, Paper Title: “Multilingual Entity Type Prediction in DBpedia via Text Analysis”)
 
 
 [//]: # ()
