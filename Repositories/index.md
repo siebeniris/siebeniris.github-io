@@ -1,5 +1,19 @@
 # Repositories
 
+### Colex2Phon
+SIGMORPHON 2023 and AmericasNLP 2023
+
+[Codes and Datasets](https://github.com/siebeniris/ColexPhon)
+
+[Poster for AmericasNLP](https://github.com/siebeniris/ColexPhon/blob/main/americaNLP_poster.pdf)
+
+
+### Colex2Lang: Language Embeddings from Semantic Typology
+In semantic typology, colexification refers to words with multiple meanings, either related (polysemy) or unrelated (homophony). Studies of cross-linguistic colexification have yielded insights into, e.g., psychology, historical linguistics and cognitive science (Xu et al., 2020; Brochhagen and Boleda, 2022; Schapper and Koptjevskaja-Tamm, 2022). While NLP research up until now has mainly focused on integrating syntactic typology (Naseem et al., 2012; Ponti et al., 2019; Chaudhary et al., 2019; Üstün et al., 2020; Ansell et al., 2021; Oncevay et al., 2022), we here investigate the potential of incorporating semantic typology, of which colexification is an example. We propose a framework for constructing a large-scale synset graph and learning language representations with node embedding algorithms. We demonstrate that cross-lingual colexification patterns provide a distinct signal for modelling language similarity and predicting typological features. Our representations achieve a 9.97% performance gain in predicting lexico-semantic typological features and expectantly contain a weaker syntactic signal. This study is the first attempt to learn language representations and model language similarities using semantic typology at a large scale, setting a new direction for multilingual NLP, especially for low-resource languages.
+
+[Codes and Language Embeddings](https://github.com/siebeniris/Colex2Lang)
+
+
 ### MigrationsKB- The Knowledge Base of Migraiton related annotated Tweets
 __MigrationsKB(MGKB)__ is a public Knowledge Base of anonymized __Migration__ related 
 annotated tweets. The MGKB currently contains over 200 thousand 
