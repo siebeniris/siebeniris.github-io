@@ -2,7 +2,7 @@
 
 ## 2023
 
-* __Chen, Y.__, & Bjerva, J. (Accepted/In press). Colexifications for Bootstrapping Cross-lingual Datasets: The Case of Phonology, Concreteness, and Affectiveness. In Proceedings of the 20th SIGMORPHON Workshop on Computational Research in Phonetics, Phonology, and Morphology Association for Computational Linguistics. https://doi.org/10.48550/arXiv.2306.02646
+* __Yiyi Chen__ and Johannes Bjerva. 2023. [Colexifications for Bootstrapping Cross-lingual Datasets: The Case of Phonology, Concreteness, and Affectiveness.](https://aclanthology.org/2023.sigmorphon-1.11/) In Proceedings of the 20th SIGMORPHON workshop on Computational Research in Phonetics, Phonology, and Morphology, pages 98–109, Toronto, Canada. Association for Computational Linguistics.
 * __Chen, Y.__, & Bjerva, J. (Accepted/In press). Patterns of Closeness and Abstractness in Colexifications: The Case of Indigineous Languages in the Americas. In Third Workshop on NLP for Indigenous Languages of the Americas Association for Computational Linguistics.
 * __Yiyi Chen__, Russa Biswas, Johannes Bjerva. 2023. Colex2Lang: Language Embeddings from Semantic Typology. Proceedings of the 24th Nordic Conference on Computational Linguistics (NoDaLiDa). (Accepted)
 
