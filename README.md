@@ -9,12 +9,13 @@
 
 [//]: # (My Résumé: <a href="CV.pdf"> CV </a>)
 
-## News
+## Recent Activities
+* August 2023, travel funding for ACL 2023, in the amount of 7500 kr. granted from [Otto Mønsted Fond](https://omfonden.dk/application/)
+* 10-20 August 2023, participating and presenting research in [the Summer School of Linguistics](https://ssol.ff.cuni.cz/summer-school-of-linguistics/ssol-2023/), České Budějovice, Czechia
 * 10-14 July 2023, Present my papers in [AmericasNLP 2023](https://turing.iimas.unam.mx/americasnlp/2023_workshop.html) and [SIGMORPHON 2023](https://sigmorphon.github.io/workshops/2023/), co-located with [ACL 2023](https://2023.aclweb.org/), Toronto Canada
 * 22-25 May 2023, [The 24th Nordic Conference on Computational Linguistics, Tórshavn, Faroe Islands](https://www.nodalida2023.fo/), Kingdom of Denmark
 * 25-28 April 2023, [Joint Sessions of Workshops, Science Po Toulouse and Online](https://ecpr.eu/JointSessions), Toulouse, France
 * 29-30 March 2023, Poster session of [HumanCLAIM Workshop](https://clap-lab.github.io/workshop), Amsterdam, Netherlands
-  * <a href="Colex2lang_poster.pdf" class="image fit">Poster</a> Kudos :heart:	to my dear roommate [Tara](https://no.linkedin.com/in/taragm) for design and co-implementation of the poster :blush:	
 * Ab 01.2023, Board Member of [PhD Network of Aalborg University (PAU)](https://www.facebook.com/groups/PAUNetwork) on the Copenhagen Campus
 
 
