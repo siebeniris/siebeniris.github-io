@@ -1,16 +1,10 @@
 
 ![image](personal/images/IMG_7721.jpg){: style="float: left"; width="150"}
-
 [![GitHub](https://img.shields.io/github/followers/siebeniris?style=social)](https://github.com/siebeniris)
-
 [![Twitter Follow](https://img.shields.io/twitter/follow/YiyiChen?style=social)](https://twitter.com/YiyiChen)
-
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC)](mailto:chen.yiyi@pm.me)
-
 [![dblp](https://a11ybadges.com/badge?logo=dblp)](https://dblp.org/pid/71/1-2.html)
-
 [![Google Scholar](https://a11ybadges.com/badge?logo=googlescholar)](https://scholar.google.com/citations?user=nCLP2jcAAAAJ)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yiyi-chen-1005571b4)
 
 [//]: # (My Résumé: <a href="CV.pdf"> CV </a>)
