@@ -2,13 +2,20 @@
 ![image](personal/images/IMG_7721.jpg){: style="float: left"; width="150"}
 
 [![GitHub](https://img.shields.io/github/followers/siebeniris?style=social)](https://github.com/siebeniris)
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/YiyiChen?style=social)](https://twitter.com/YiyiChen)
+
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC)](mailto:chen.yiyi@pm.me)
+
 [![dblp](https://a11ybadges.com/badge?logo=dblp)](https://dblp.org/pid/71/1-2.html)
+
 [![Google Scholar](https://a11ybadges.com/badge?logo=googlescholar)](https://scholar.google.com/citations?user=nCLP2jcAAAAJ)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yiyi-chen-1005571b4)
 
 [//]: # (My Résumé: <a href="CV.pdf"> CV </a>)
+
+
 
 ## Recent News
 * Feb 2024, EliteForsk Travel Grant, in the amount of 200,000 kr. granted from [Uddannelses- og Forskningsministeriet](https://ufm.dk/forskning-og-innovation/forskningsformidling/eliteforsk/prismodtagere/prismodtagere-2024/eliteforsk-rejsestipendierne-2024/yiyi-chen)
