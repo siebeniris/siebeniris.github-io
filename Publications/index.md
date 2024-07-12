@@ -5,7 +5,7 @@
 * Lent, Heather, Kushal Tatariya, Raj Dabre, __Yiyi Chen__, Marcell Fekete, Esther Ploeger, Li Zhou, Heje, H.E., Kanojia, D., Belony, P. and Bollmann, M., "CreoleVal: Multilingual Multitask Benchmarks for Creoles." (2024).
 
 ## 2023
-
+* __Chen, Y.__, & Bjerva, J. (2024). Patterns of Persistence and Diffusibility across World's Languages. arXiv preprint arXiv:2401.01698.
 * __Yiyi Chen__ and Johannes Bjerva. 2023. [Colexifications for Bootstrapping Cross-lingual Datasets: The Case of Phonology, Concreteness, and Affectiveness.](https://aclanthology.org/2023.sigmorphon-1.11/) In Proceedings of the 20th SIGMORPHON workshop on Computational Research in Phonetics, Phonology, and Morphology, pages 98–109, Toronto, Canada. Association for Computational Linguistics.
 * __Chen, Y.__, & Bjerva, J. (Accepted/In press). Patterns of Closeness and Abstractness in Colexifications: The Case of Indigineous Languages in the Americas. In Third Workshop on NLP for Indigenous Languages of the Americas Association for Computational Linguistics.
 * __Yiyi Chen__, Russa Biswas, and Johannes Bjerva. 2023. [Colex2Lang: Language Embeddings from Semantic Typology](https://aclanthology.org/2023.nodalida-1.67/). In Proceedings of the 24th Nordic Conference on Computational Linguistics (NoDaLiDa), pages 673–684, Tórshavn, Faroe Islands. University of Tartu Library.
