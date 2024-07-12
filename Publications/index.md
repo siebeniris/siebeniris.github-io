@@ -1,5 +1,9 @@
 # Publications 
 
+## 2024
+* __Chen, Yiyi__, Heather Christine Lent, and Johannes Bjerva. "Text Embedding Inversion Security for Multilingual Language Models." (2024).
+* Lent, Heather, Kushal Tatariya, Raj Dabre, __Yiyi Chen__, Marcell Fekete, Esther Ploeger, Li Zhou, Heje, H.E., Kanojia, D., Belony, P. and Bollmann, M., "CreoleVal: Multilingual Multitask Benchmarks for Creoles." (2024).
+
 ## 2023
 
 * __Yiyi Chen__ and Johannes Bjerva. 2023. [Colexifications for Bootstrapping Cross-lingual Datasets: The Case of Phonology, Concreteness, and Affectiveness.](https://aclanthology.org/2023.sigmorphon-1.11/) In Proceedings of the 20th SIGMORPHON workshop on Computational Research in Phonetics, Phonology, and Morphology, pages 98–109, Toronto, Canada. Association for Computational Linguistics.
